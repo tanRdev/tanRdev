@@ -1,6 +1,4 @@
-# Hi, I'm Tan.
-
-Senior software engineer building product systems, developer tools, and native macOS apps.
+#### Senior software engineer building product systems, developer tools, and native macOS apps.
 
 ### Selected work
 
