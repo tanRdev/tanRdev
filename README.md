@@ -1,6 +1,6 @@
-#### Senior software engineer building product systems, developer tools, and native macOS apps.
+### Senior software engineer building product systems, developer tools, and native macOS apps.
 
-#### Products
+### Products
 
 - [Pi Desktop](https://github.com/tanRdev/pi-desktop) — a macOS coding-agent workspace with isolated worktrees, integrated terminals, and multiple agent runtimes.
 - [Lucid](https://github.com/tanRdev/lucid-task-manager) — a native SwiftUI activity monitor that explains macOS processes in plain English.
