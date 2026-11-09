@@ -2,7 +2,7 @@
 
 ### Products
 
-- [Liveboard](https://github.com/tanRdev/liveboard) — an interactive system-design simulator that animates requests through caches, queues, and databases in the browser. [Live demo](https://liveboard-eight.vercel.app).
+- [Liveboard](https://github.com/tanRdev/liveboard) — an interactive system-design simulator that animates requests through caches, queues, and databases in the browser.
 - [Priceleaf](https://github.com/tanRdev/priceleaf) — a browser tool that updates prices in a designed PDF catalog from a CSV and leaves the rest of the page alone.
 - [Pi Desktop](https://github.com/tanRdev/pi-desktop) — a macOS coding-agent workspace with isolated worktrees, integrated terminals, and multiple agent runtimes.
 - [Lucid](https://github.com/tanRdev/lucid-task-manager) — a native SwiftUI activity monitor that explains macOS processes in plain English.
